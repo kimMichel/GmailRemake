@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GmailRemake</string>
+    <string name="search_for_email">Pesquisar no e-mail</string>
+    <string name="email">E-mail</string>
+    <string name="meeting">Reunião</string>
+    <string name="lorem">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</string>
+</resources>
